@@ -3,11 +3,13 @@ title: About
 layout: page
 ---
 
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
+
+![Profile Image]({{ site.url }}/{{ site.picture-2 }})
 
 <p>Hi. I'm Callum.</p>
 
-<p>I work at the intersection of business, technology and design finding problems worth solving and solutions worth buying.</p>
+<p>I work at the intersection of business, technology and design finding problems worth solving and solutions worth building.</p>
 
 <p>I feel most fulfilled when I'm surrounded by smart people who speak their minds, empowered by clearly articulated strategy and inspired leadership.</p>
 
@@ -25,5 +27,6 @@ layout: page
 	<li>Business design</li>
 	<li>Business change</li>
 	<li>Project management</li>
+	<li>Not dying when jumping out of planes</li>
 	<li>Stakeholder management</li>
 </ul>

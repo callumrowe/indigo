@@ -10,6 +10,9 @@ description: Callum Rowe | Products, technology and working with humans
 external-image: true
 picture: https://media.licdn.com/dms/image/C5603AQGk8tHI_OMvBw/profile-displayphoto-shrink_400_400/0/1583018008610?e=1712793600&v=beta&t=KfCdHIRJOlcmYYPqFkD9yhWEhaxvr74HKom-_Es2pbw
 
+# external-image-2: true
+picture-2: /assets/images/heroImage.png
+
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
 dark-theme: auto
