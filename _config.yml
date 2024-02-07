@@ -1,6 +1,6 @@
 # main text of home
 title: Callum Rowe
-bio: Products, projects, technology and working with humans
+bio: Products, technology and working with humans
 
 # twitter summary info
 description: Callum Rowe | Products, technology and working with humans
@@ -44,7 +44,7 @@ email: callumr@hey.com
 authors:
   callumrowe:
     name: Callum Rowe
-    bio: Product manager and general nerd
+    bio: A little nerdy, a little cool
     external-image: true
     picture: https://media.licdn.com/dms/image/C5603AQGk8tHI_OMvBw/profile-displayphoto-shrink_400_400/0/1583018008610?e=1712793600&v=beta&t=KfCdHIRJOlcmYYPqFkD9yhWEhaxvr74HKom-_Es2pbw
     twitter: callumjrowe
