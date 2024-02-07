@@ -19,4 +19,4 @@ I aim for this to be exploratory and forever incomplete. I'm not writing for any
 
 I have 10 years of experience with products and projects and technology and humans, but it's been a scrappy, figure-it-out kind of ride. I'm not going to pretend I have answers or even write like I know exactly what I'm talking about. I'm figuring this out as I go, fueled by a bit of creativity and a fuck-it mentality. 
 
-So, do with that what you will. 
+👋
