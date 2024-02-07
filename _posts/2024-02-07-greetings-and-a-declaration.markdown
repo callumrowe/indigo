@@ -1,7 +1,7 @@
 ---
 title: "Greetings and a declaration"
 layout: post
-date: 2024-02-08 07:00
+date: 2024-02-07 07:00
 tag: callumrowe
 image: 
 headerImage: false
