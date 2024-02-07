@@ -20,7 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/16fzfF3L1BPXMTkZuWb8DxFeqCaUoDS3y/view?usp=sharing
 
-url: https://callumrowe.github.io/indigo
+# url: https://callumrowe.github.io/indigo
+url: https://callumrowe.me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
