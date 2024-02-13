@@ -30,7 +30,7 @@ url: https://callumrowe.me
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'G-RNYRJ269C3'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
