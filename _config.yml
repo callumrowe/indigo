@@ -7,8 +7,8 @@ description: Callum Rowe | Products, technology and working with humans
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://media.licdn.com/dms/image/C5603AQGk8tHI_OMvBw/profile-displayphoto-shrink_400_400/0/1583018008610?e=1712793600&v=beta&t=KfCdHIRJOlcmYYPqFkD9yhWEhaxvr74HKom-_Es2pbw
+external-image: false
+picture: /assets/images/headshot.jpeg
 
 # external-image-2: true
 picture-2: /assets/images/heroImage.png
@@ -20,8 +20,8 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/16fzfF3L1BPXMTkZuWb8DxFeqCaUoDS3y/view?usp=sharing
+resume-external: false
+resume-url: /assets/files/resume.pdf
 
 # url: https://callumrowe.github.io/indigo
 url: https://callumrowe.me
@@ -49,9 +49,9 @@ authors:
   callumrowe:
     name: Callum Rowe
     bio: A little nerdy, a little cool
-    external-image: true
-    picture: https://media.licdn.com/dms/image/C5603AQGk8tHI_OMvBw/profile-displayphoto-shrink_400_400/0/1583018008610?e=1712793600&v=beta&t=KfCdHIRJOlcmYYPqFkD9yhWEhaxvr74HKom-_Es2pbw
-    twitter: callumjrowe
+    external-image: false
+    picture: /assets/images/headshot.jpeg
+    # twitter: callumjrowe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
