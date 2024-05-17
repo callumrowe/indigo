@@ -5,7 +5,7 @@ date: 2024-01-07 07:00
 tag: 
 image: 
 headerImage: false
-projects: true
+projects: false
 hidden: false
 description: "Notes from my brain."
 category: blog
